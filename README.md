@@ -1,4 +1,4 @@
-# How to create the vercel management dashboard on your local machine
+# Quick Setup:
 
 1. Go to https://vercel.com/account/settings/tokens and create a token
 2. Copy token ID and save it (How your app accesses Vercel)
